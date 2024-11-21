@@ -19,6 +19,13 @@ body {
     position: relative;
 }
 
+@media (max-width: 400px) {
+    width: 290px;
+    left: 43%; 
+    transform: translateX(-50%);
+}
+
+
 .img-sec {
     overflow: hidden;
     border-radius: 50%;
