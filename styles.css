@@ -20,9 +20,12 @@ body {
 }
 
 @media (max-width: 400px) {
+    .cart {
     width: 290px;
     left: 43%; 
     transform: translateX(-50%);
+    }
+    
 }
 
 
